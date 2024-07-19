@@ -1,0 +1,22 @@
+.bookingList{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    list-style-type: none;
+    padding: 10px;
+}
+
+
+.booking-container{
+    padding: 30px;
+}
+
+.location{
+    font-size: 14px;
+}
+
+.booking-bg-container{
+    padding: 30px;
+    background-image: linear-gradient(to bottom, #F2CAF7, white);
+}

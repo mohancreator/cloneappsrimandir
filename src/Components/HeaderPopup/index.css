@@ -1,0 +1,89 @@
+.trigger-button {
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Roboto';
+    padding: 8px 15px 8px 15px;
+    margin: 8px;
+    background-color:transparent;
+    border-color: transparent;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+    cursor: pointer;
+    outline: none;
+   }
+.popup-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 40px;
+}
+
+.say-hello-heading{
+    font-size: 12px;
+}
+
+.greetings{
+    font-size: 12px;
+}
+
+.greetings-inside{
+    font-size: 12px;
+    margin-left: 10px;
+}
+
+.greetings-insides{
+    font-size: 9px;
+    margin-left: 10px;
+}
+
+.new{
+    background-color: green;
+    color:white;
+    font-size: 12px;
+    padding: 4px;
+    border-radius: 8px;
+}
+
+.whatsappcontainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.each-booking-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-grow: 1;
+}
+
+.inside-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.contact-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.each-contact-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contact-image{
+    margin-right: 10px;
+}
+
+.linkItem{
+    text-decoration: none;
+}

@@ -1,0 +1,14 @@
+.activeButton{
+    background-color: transparent;
+    border-color: transparent;
+    cursor: pointer;
+    outline: none;
+    color: #F3760D;
+}
+
+.normal{
+    background-color: transparent;
+    border-color: transparent;
+    cursor: pointer;
+    outline: none;
+}

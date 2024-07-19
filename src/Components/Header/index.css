@@ -1,0 +1,43 @@
+.logo-image{
+    height: 25px;
+}
+
+.list-header{
+    list-style-type: none;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.header-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.item{
+    margin: 10px;
+}
+
+.select-input{
+    padding: 10px;
+    outline: none;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.profile-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.profile-image{
+    font-size: 36px;
+    margin-left: 10px;
+}

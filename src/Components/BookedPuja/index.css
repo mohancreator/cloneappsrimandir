@@ -1,0 +1,25 @@
+.listemptycontainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.bookPuja{
+    background-color: #FA7F0A;
+    color: white;
+    border-color: transparent;
+    border-radius: 8px;
+    outline: none;
+    border-style: solid;
+    padding: 4px;
+    font-family: "Roboto";
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    outline: none;
+
+}

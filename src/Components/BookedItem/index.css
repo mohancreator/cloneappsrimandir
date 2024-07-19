@@ -1,0 +1,83 @@
+.each-container{
+    border-radius: 10px;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 250px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+.image-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.puja-image{
+    height: 150px;
+    width: 230px;
+    border: 10px;
+}
+
+.short-title{
+    font-size: 12px;
+}
+
+.title{
+    font-size: 14px;
+}
+
+.location{
+    font-size: 10px;
+    margin-left: 15px;
+}
+
+.date{
+    font-size: 10px;
+    margin-left: 15px;
+}
+
+.location-data-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.participate-button{
+    background-color: #37F910;
+    color: white;
+    border-color: transparent;
+    border-radius: 8px;
+    outline: none;
+    border-style: solid;
+    width: 100%;
+    padding: 4px;
+    font-family: "Roboto";
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    outline: none;
+}
+
+.arrow{
+    font-size: 24px;
+}
+
+.normals{
+    padding: 4px;
+    font-family: "Roboto";
+    border-radius: 8px;
+    width: 8px;
+    border-style: solid;
+    background-color: #EAF1EA;
+    width: 100%;
+    border-width: 1px;
+}

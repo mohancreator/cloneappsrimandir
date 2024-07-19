@@ -1,0 +1,48 @@
+.home-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 40px;
+    align-items: center;
+    height: 70vh;
+    background-color: #FEE8FF;
+}
+
+.start-image{
+    height: 300px;
+    margin-left: 30px;
+}
+
+.first-heading-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.first-heading{
+    color: #A77A71;
+    font-family: "Roboto";
+    font-size: 12px;
+}
+
+.second-heading{
+    font-family: "Roboto";
+    width: 360px;
+    font-size: 29px;
+}
+
+.span-head{
+    color: #F3760D;
+    font-family: "Roboto";
+}
+
+.play-store-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.store-image{
+    height: 45px;
+    margin-right: 20px;
+}
